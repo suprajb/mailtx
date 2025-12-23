@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Project specific
+mailtx.db
+token.json
+credentials.json
+data/
+.secrets/
+.DS_Store
+PLAN.md
