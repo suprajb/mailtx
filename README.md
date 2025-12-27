@@ -1,14 +1,10 @@
 # MailTx
 
-A local-first AI spend analyzer in Python.
+A local-first AI spend analyzer in Python. Heavily in development.
+Currently supports (via CLI) queries like "How much did I spend on Uber last month?"
 
 > **Note:** Current v0 supports receipt ingestion via Gmail only.
 
-## Structure
-
-- `src/mailtx/`: Source code.
-- `data/`: Local data storage (raw emails).
-- `mailtx.db`: SQLite database.
 
 ## Setup
 
